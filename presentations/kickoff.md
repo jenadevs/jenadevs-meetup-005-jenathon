@@ -38,7 +38,7 @@ __Register at [www.meetup.com/jenadevs](https://www.meetup.com/jenadevs/)__
 
 ## [Project R](https://www.r-project.org)
 
-![R](img/Rlogo.png)
+[![R](img/Rlogo.png)](https://www.google.com/search?q=project+R&source=lnms&tbm=isch&sa=X&ved=0ahUKEwit-d6gxLrSAhWFaxQKHclwBAkQ_AUICCgB&biw=1384&bih=980#tbm=isch&q=project+R+visualization)
 
 - open source programming language
 - environment for statistical computing and graphics
